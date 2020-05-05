@@ -1,4 +1,4 @@
-# DeepDiscoveries
+# Deep Discoveries
 
 The way we access information in the virtual space is changing. Discovery and exploration are no longer constrained by a keyword entered into a blank search bar. Instead, museums, libraries, archives, and galleries worldwide are welcoming a shift to ‘generous interfaces’ – presenting their collections online in browsable and linkable networks of information that allow users to explore and discover new ideas through meaningful and contextualised relationships.
 
