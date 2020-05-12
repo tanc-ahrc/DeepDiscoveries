@@ -1,50 +1,27 @@
 	{
-	"project": "Simple Site Time Line Example",
-	"start date": "2020-02-01",
-	"margin": -3,
+	"project": "Deep Discoveries",
+	"start date": "2020-2-01",
+	"margin": -2,
 	"groups": {
-		"int": {
-			"title": "Initial discussion and planning",
+		"wp1": {
+			"title": "Work Package 1#58;<br/>Technology Development",
 			"stages" : [
-				["Literature/website/software review", "", 2, 8],
-				["Establish communications, collaborative environments and links with related interest groups",	"", 0, 4],				
-				["Recruit Project Researcher", "crit", "3,3", 6],
-				["Project Researcher In Post", "crit", 6, 21]
+				["Scoping of currently available methods (D1.1)", "", 0, 3],
+				["Collating of digital image sets (D1.2)",	"", 0, 4],
+				["CV search platform methodology development (D1.3)", "", 3, 10],
+				["CV search proof-of-concept platform creation (D1.4)", "", 8, 11],
+        ["User testing of technology (D1.5)", "", 9, 12],
+        ["Report writing on technology and next steps (D1.6)", "", 12, 15]
 			]},
-		"ws": {
-			"title": "Workshops",
+		"wp2": {
+			"title": "Work Package 2#58;<br/>User Assesment & Impact of Platform",
 			"stages": [
-				["Organise Workshop 1", "", 2, "5,20"],
-				["Workshop 1 - The Beginning", "crit", "5,20", "5,21"],
-				["Organise Workshop 2",	"", 6, 9],
-				["Workshop 2 - The Middle", "crit, active", 9, 10],
-				["Organise Workshop 3 – Document available resources and development ideas", "", 10, 18],
-				["Workshop 3 - The End", "crit, active", 18, 19]
-			]},
-		"cr": {
-			"title": "Collaborative Research",
-			"stages": [
-				["Assessing the output of Workshop 1", "", "5,21", 7],
-				["Assessing the output of Workshop 2", "", 10, 12],
-				["Project Resource survey", "", 6, 10],
-				["Evaluate selection of identified project Resources", "", 10, 11],
-				["Assessing the output of Workshop 3", "", 19, 20] 
-			]},
-		"pl": {
-			"title": "Placements",
-			"stages": [
-				["Secondments (some may be virtual) for researcher", "", 9, 17] 
-			]},
-		"pd": {
-			"title": "Public demonstrations",
-			"stages": [
-				["Evaluation of demonstration deliverables", "crit, active", 19, 20], 
-				["Presentation of demonstration deliverables", "crit, active", 20, 21] 
-			]},
-		"rp": {
-			"title": "Reporting",
-			"stages": [
-				["Complete and Deliver Final Rreport",	"crit, active", 20, 21] 
+				["Data collation and transfer to University of Surrey", "", 0, "4"],
+				["Evaluation of data accessibility user/rights/licensing (D2.1)", "", "0", "4"],
+				["Current user assessment (D2.2)",	"", 2, 5],
+				["Development of methodology for engagement of new audiences (D2.3)", "", 4, 10],
+				["Development of methodology for measuring impact (D2.4)", "", 9, 13],
+				["Report writing on user engagement and take-up (D2.5)", "", 12, 15]
 			]}
 		}
 	}
