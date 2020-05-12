@@ -1,27 +1,27 @@
 	{
 	"project": "Deep Discoveries",
 	"start date": "2020-2-01",
-	"margin": -2,
+	"margin": -1,
 	"groups": {
 		"wp1": {
 			"title": "Work Package 1#58;<br/>Technology Development",
 			"stages" : [
-				["Scoping of currently available methods (D1.1)", "", 0, 3],
-				["Collating of digital image sets (D1.2)",	"", 0, 4],
-				["CV search platform methodology development (D1.3)", "", 3, 10],
-				["CV search proof-of-concept platform creation (D1.4)", "", 8, 11],
+				["Scope available methods (D1.1)", "", 0, 3],
+				["Collate digital image sets (D1.2)",	"", 0, 4],
+				["Develop CV search platform methodology (D1.3)", "", 3, 10],
+				["Create CV search proof-of-concept platform (D1.4)", "", 8, 11],
         ["User testing of technology (D1.5)", "", 9, 12],
-        ["Report writing on technology and next steps (D1.6)", "", 12, 15]
+        ["Write report on technology & next steps (D1.6)", "", 12, 15]
 			]},
 		"wp2": {
-			"title": "Work Package 2#58;<br/>User Assesment & Impact of Platform",
+			"title": "Work Package 2#58;<br/>User Assesment &<br/>Impact of Platform",
 			"stages": [
-				["Data collation and transfer to University of Surrey", "", 0, "4"],
-				["Evaluation of data accessibility user/rights/licensing (D2.1)", "", "0", "4"],
+				["Data collation & transfer to University of Surrey", "", 0, "4"],
+				["Evaluate data accessibility user/rights/licensing (D2.1)", "", "0", "4"],
 				["Current user assessment (D2.2)",	"", 2, 5],
-				["Development of methodology for engagement of new audiences (D2.3)", "", 4, 10],
-				["Development of methodology for measuring impact (D2.4)", "", 9, 13],
-				["Report writing on user engagement and take-up (D2.5)", "", 12, 15]
+				["Develop methodology to engage new audiences (D2.3)", "", 4, 10],
+				["Develop methodology to measure impact (D2.4)", "", 9, 13],
+				["Write report on user engagement & take-up (D2.5)", "", 12, 15]
 			]}
 		}
 	}
